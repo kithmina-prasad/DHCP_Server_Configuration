@@ -72,7 +72,7 @@ Add or modify the following:
 #### Global Settings:
 
 ```bash
-option domain-name "prasad.com";
+option domain-name "prasad.org";
 option domain-name-servers 8.8.8.8, 8.8.84.4;
 default-lease-time 600;
 max-lease-time 7200;
