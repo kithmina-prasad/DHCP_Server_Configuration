@@ -20,6 +20,8 @@ In this lab, I configured a **DHCP server using ISC DHCP** on a Linux VM to dyna
 - VMware Workstation Pro
 - Terminal (CLI tools: `nano`, `ip`, `dhclient`, `systemctl`)
 
+![01](https://github.com/user-attachments/assets/147e0502-38cc-4585-a302-b14576e5e36c)
+
 ---
 
 ## Steps
@@ -106,7 +108,7 @@ host pc1 {
 }
 ```
 
-![01](https://github.com/user-attachments/assets/29b20cc2-bd2e-46ce-9898-4a18ab09764a)
+![05 1](https://github.com/user-attachments/assets/90a05aa6-e5f8-4e5c-84a6-1ac45bc8c6ba)
 
 
 ---
@@ -157,4 +159,6 @@ ipconfig /all
 
 ![07](https://github.com/user-attachments/assets/19f14b8e-c48f-40b5-9a9c-5054b6be6a96)
 
-![08](https://github.com/user-attachments/assets/c9886770-fee4-4606-816a-fc5bb0cfacdc)
+![08](https://github.com/user-attachments/assets/4eb3283c-65db-4843-a957-51e5099652fe)
+
+
